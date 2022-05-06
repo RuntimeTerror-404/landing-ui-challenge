@@ -1,0 +1,43 @@
+.footer{
+    display: flex;
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    place-content: space-between;
+}
+
+.card1{
+    /* border: 2px solid #fff8f8; */
+    border: none;
+    margin: 0 20px;
+    padding: 10px 10px;
+    background-color: #f7faff;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgb(184, 181, 181);
+}
+
+.p-footer{
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: -10px;
+    line-height: 1.0em;
+}
+
+.p2-footer{
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #64607D;
+    margin: 30px 0;
+
+
+}
+
+.card1 button{
+    margin-bottom: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+.security{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.container7{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid rgb(255, 237, 237); */
+    border: 1px solid #DEE1E6;
+    padding: 20px;
+    background-color: #f7faff;
+    border-radius: 10px;
+
+}
+
+.s1{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.s1 img{
+    margin-right: 10px;
+    background: #EBECE8;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.main-heading{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: -20px;
+}
+
+
+

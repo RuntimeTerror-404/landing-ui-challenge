@@ -1,0 +1,48 @@
+.feature{
+    display: block;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 0 60px;
+    margin-bottom: 30px; */
+    margin-bottom: 30px;
+}
+
+.container3{
+    display: flex;
+}
+
+.desc{
+    margin-top: 70px;
+    margin-left: 70px;
+    text-align:left;
+}
+
+.p1{
+    color: rgb(90, 11, 163);
+    font-weight: 500;
+    margin-bottom: -10px;
+}
+
+.p2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: -10 0;
+    line-height: normal;
+    line-height: 1.0em;
+}
+
+.p3{
+    font-weight:500;
+    color: #757095;
+    margin-top: -10px;
+}
+
+button{
+    background-color: #3734A9;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,20 @@
+.payment{
+    display: block;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 0 60px;
+    margin-bottom: 30px; */
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.container5{
+    display: flex;
+}
+
+.payment-feature{
+    margin-right: 30px;
+    align-items: center;
+    margin-top: 20px;
+}
