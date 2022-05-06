@@ -19,7 +19,7 @@ function Hero() {
           </div>
           <div className="image">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbF7fbqI9aN7iKNax8oPKfYaCma7qsO_QkCb_WPI2jeh8WUTJ06oL3B9VccI4z1G7oC4&usqp=CAU"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbF7fbqI9aN7iKNax8oPKfYaCma7qsO_QkCb_WPI2jeh8WUTJ06oL3B9VccI4z1G7oC4&usqp=CAU" alt="img1"
               height="40px"
             />
             <p>See How It Works</p>

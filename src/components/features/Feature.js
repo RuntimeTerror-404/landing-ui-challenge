@@ -5,7 +5,7 @@ function Feature() {
   return (
     <div className="feature">
       <div className="container3">
-        <img src={require("../../assets/image-2.png")} height="450px" />
+        <img src={require("../../assets/image-2.png")} alt="img2" height="450px" />
         <div className="desc">
           <p className="p1">OUR FEATURE</p>
           <h1 className="p2">All of your portfolios are linked to your AR Shakir account</h1>

@@ -8,17 +8,17 @@ function Security() {
         <div className="main-heading">Germany-based & GDPR Compliant</div>
         
         <div className="s1">
-            <img src="https://www.iconpacks.net/icons/2/free-shield-security-icon-3087-thumb.png" height="30px"/>
+            <img src="https://www.iconpacks.net/icons/2/free-shield-security-icon-3087-thumb.png" alt="img5" height="30px"/>
             <p>Data does not leave our servers</p>
         </div>
 
         <div className="s1">
-            <img src="https://cdn-icons-png.flaticon.com/512/4812/4812244.png" height="30px"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/4812/4812244.png" alt="img6" height="30px"/>
             <p>Own infrastructure</p>
         </div>
 
         <div className="s1">
-            <img src="https://www.clipartmax.com/png/middle/286-2865712_data-storage-icon-clipart-reseller-web-hosting.png" height="30px"/>
+            <img src="https://www.clipartmax.com/png/middle/286-2865712_data-storage-icon-clipart-reseller-web-hosting.png" alt="img7" height="30px"/>
             <p>Most renowed data centers</p>
         </div>
 

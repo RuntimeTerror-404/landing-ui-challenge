@@ -17,7 +17,7 @@ function Payment() {
         </div>
 
         <div className="card">
-            <img src={require("../../assets/image-3.png")} height="400px"/>
+            <img src={require("../../assets/image-3.png")} alt="img3" height="400px"/>
         </div>
       </div>
     </div>

@@ -5,7 +5,7 @@ import "./Portfolio.css";
 function Portfolio() {
   return (
     <div className="portfolio">
-      <img src={require("../../assets/image1.png")} height="400px" className="port"/>
+      <img src={require("../../assets/image1.png")} alt="img4" height="400px" className="port"/>
     </div>
   );
 }
